@@ -33,9 +33,14 @@ li{
     display: inline-block;
     margin-right: 60px;
 }
+
+
+
+
 .content_avatar {
     margin-top: 100px;
     display: inline-block;
+    width: 100%;
   
 }
 .content_title {display: inline-block;

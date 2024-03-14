@@ -1,0 +1,437 @@
+@media (max-width: 1440px) {
+.about_me {
+    font-size: 4vw;
+}
+
+.content_title_desc {
+    font-size: 3vw;
+}
+.content_avatar {
+    width: 50%;
+    display: block;
+}
+
+.cartoon_inform_tech img {
+    width: 50%;
+    display: block;
+}
+.inform2 {
+    padding-left: 800px;
+   
+
+}
+.tendle {
+    width: 75vw;
+}
+
+.ssylka {
+    margin-left: 0px;
+}
+}
+
+
+@media (max-width: 1200px) {
+
+    /* #blog {
+        padding-left: 50px;
+        padding-bottom: 50px;
+            
+    } */
+    nav ul {
+        text-align: center;
+    }
+    .about_me {
+        font-size: 4vw;
+        margin-bottom: 20px;
+    }
+
+    .content_title_desc {
+        display: block;
+        font-size: 3vw;
+    }
+
+    .content_avatar   {
+        width: 50%;
+        display: block;
+        margin: 0 auto;
+    }
+    .content_title {
+        display: block;
+        margin: 0 auto;
+      
+    }
+    
+    .cartoon_inform_tech img {
+        width: 50%;
+        display: block;
+    }
+
+    .text_about p {
+        font-size: 4vw;
+        margin: 0 auto;
+
+        
+    }
+    .cartoon_inform1 {
+        padding-top: 30px;
+    }
+
+    #cartoon_inform {
+        padding-left: 30px;
+    }
+
+.cartoon_inform_tech2 img {
+    width: 50%;
+        display: block;
+}
+.text_about2 p {
+    font-size: 3vw;
+    margin: 0 auto;
+    
+}
+
+.tendle {
+    width: 80vw;
+}
+
+.inform2 {
+    padding-left: 700px;
+}
+
+.meet_message {
+    font-size: 4vw;
+}
+
+.ssylka {
+    margin-left: 0px;
+    width: 400px;
+    font-size: 20px;
+}
+
+.knopka {
+    font-size: 2vw;
+}
+
+.text_social h1 {
+    font-size: 4vw;
+}
+.about_blog_text{
+    font-size: 4vw;
+    line-height: 40px;
+}
+.inform {
+    text-align: center;
+}
+}
+
+@media (max-width: 900px) {
+
+    #meet {
+        padding-left: 100px;
+    }
+    #blog {
+        padding-left: 30px;
+        padding-bottom: 30px;
+            
+    }
+
+    nav ul {
+        text-align: center;
+    }
+    .about_me {
+        font-size: 4vw;
+        margin-bottom: 10px;
+    }
+    .content_title_desc {
+        display: block;
+        font-size: 3vw;
+    }
+
+    .content_avatar  {
+        width: 50%;
+        display: block;
+        margin: 0 auto;
+       
+    }
+    .content_title {
+        display: block;
+        margin: 0 auto;
+      
+    }
+
+    .about_blog_text{
+        font-size: 4vw;
+        line-height: 40px;
+    }
+    .inform {
+        text-align: center;
+    }
+    
+    .cartoon_inform_tech img {
+        width: 50%;
+        display: block;
+    }
+
+    .text_about p {
+        font-size: 3vw;
+        margin: 0 auto;
+    }
+
+    .cartoon_inform1 {
+        padding-top: 30px;
+    }
+
+    .cartoon_inform_tech2 img {
+        width: 50%;
+            display: block;
+    }
+    .text_about2 p {
+        font-size: 3vw;
+        margin: 0 auto;
+        
+    }
+    .tendle {
+        width: 80vw;
+    }
+
+    .inform2 {
+        padding-left: 400px;
+       
+    
+    }
+
+    .meet_message h2 {
+        font-size: 3vw;
+        line-height: 20px;
+    }
+
+    .ssylka {
+        margin-left: 0px;
+        width: 300px;
+        font-size: 15px;
+    }
+
+    .knopka {
+        font-size: 2vw;
+    }
+    .text_social h1{
+        font-size: 4vw;
+    }
+    #image_twitt {
+        padding-top: 20px;
+    }
+    .image_in img {
+        width: 5vw;
+    }
+}
+
+@media (max-width: 540px) {
+
+    nav ul {
+        text-align: center;
+    }
+
+    #blog {
+        padding-left: 10px;
+        padding-bottom: 50px;
+            
+    }
+
+    .about_me {
+        font-size: 3vw;
+        margin-bottom: 10px;
+    }
+    .content_title_desc {
+        display: block;
+        font-size: 3vw;
+    }
+
+    .content_avatar  {
+        width: 50%;
+        display: block;
+        margin: 0 auto;
+    }
+
+
+    .content_title {
+        width: auto;
+        display: block;
+        
+        margin: 0 auto;
+      
+    }
+    .about_blog_text{
+        font-size: 3vw;
+        line-height: 20px;
+    }
+    .inform {
+        text-align: center;
+    }
+
+    .cartoon_inform_tech img {
+        width: 50vw;
+        display: block;
+    }
+
+    .text_about p {
+        font-size: 3vw;
+        margin: 0 auto;
+    }
+
+    .cartoon_inform1 {
+        padding-top: 30px;
+    }
+    
+    .cartoon_inform_tech2 img {
+        width: 50%;
+            display: block;
+    }
+    .text_about2 p {
+        font-size: 3vw;
+        margin: 0 auto;
+        
+    }
+    br {
+        width: auto;
+    }
+    .tendle {
+        width: 75vw;
+    }
+
+    .inform2 {
+        padding-left: 200px;
+        font-size: 3vw;
+       
+    
+    }
+
+    .meet_message h2 {
+        font-size: 2vw;
+        line-height: 10px;
+        display: inline-block;
+    }
+
+    .ssylka {
+        margin-left: 0px;
+        width: 200px;
+        
+    }
+    .knopka {
+        font-size: 2vw;
+    }
+    .text_social h1 {
+        font-size: 3vw;
+        line-height: 30px;
+    }
+    #image_twitt {
+        padding-top: 20px;
+    }
+    .image_in img {
+        width: 5vw;
+    }
+}
+
+@media (max-width: 375px) {
+    
+    .about_me {
+        font-size: 4vw;
+        margin-bottom: 10px;
+        display: block;
+    }
+    .content_title_desc {
+        display: block;
+        font-size: 3vw;
+      
+    }
+
+    .tendle {
+        width: 75vw;
+    }
+
+    .content_avatar  {
+        width: 50%;
+        display: block;
+        margin: 0 auto;
+        
+        
+    }
+
+    nav ul {
+        text-align: center;
+    }
+
+    #blog {
+        padding-left: 10px;
+        padding-bottom: 50px;
+            
+    }
+    .content_title  {
+        
+       width: auto;
+        display: block;
+        margin: 0 auto;
+      
+    }
+    .about_blog_text{
+        font-size: 3vw;
+        line-height: 10px;
+    }
+
+    .inform {
+        text-align: center;
+    }
+    
+    .cartoon_inform_tech img {
+        width: 50%;
+        display: block;
+    }.text_about p {
+        font-size: 3vw;
+        
+    }
+
+    .cartoon_inform1 {
+        padding-top: 30px;
+    }
+
+    .cartoon_inform_tech2 img {
+        width: 50%;
+            display: block;
+    }
+    .text_about2 p {
+        font-size: 3vw;
+        margin: 0 auto;
+        
+    }
+
+    .inform2 {
+        padding-left: 100px;
+        font-size: 3vw;
+       
+    
+    }
+    .meet_message h2 {
+        font-size: 2vw;
+        line-height: 10px;
+    }
+    .ssylka {
+        margin-left: 0px;
+        width: 100px;
+        font-size: 4px;
+    }
+
+    .text_social h1{
+        font-size: 3vw;
+        line-height: 20px;
+    }
+    .image_in img {
+        width: 5vw;
+    }
+
+}
+
+
+
+
+
+
+

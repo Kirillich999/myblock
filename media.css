@@ -15,6 +15,11 @@
     width: 50%;
     display: block;
 }
+
+.cartoon_inform_tech2 img {
+    width: 50%;
+    display: block;
+}
 .inform2 {
     padding-left: 800px;
    
@@ -32,32 +37,33 @@
 
 @media (max-width: 1200px) {
 
-    /* #blog {
+    #blog {
         padding-left: 50px;
         padding-bottom: 50px;
             
-    } */
+    }
     nav ul {
         text-align: center;
     }
     .about_me {
-        font-size: 4vw;
+        font-size: 3vw;
         margin-bottom: 20px;
     }
 
     .content_title_desc {
         display: block;
-        font-size: 3vw;
+        font-size: 2vw;
     }
 
     .content_avatar   {
         width: 50%;
-        display: block;
+        
         margin: 0 auto;
     }
     .content_title {
         display: block;
-        margin: 0 auto;
+        margin: 0px auto;
+        
       
     }
     
@@ -67,8 +73,9 @@
     }
 
     .text_about p {
-        font-size: 4vw;
+        font-size: 2vw;
         margin: 0 auto;
+       
 
         
     }
@@ -85,7 +92,7 @@
         display: block;
 }
 .text_about2 p {
-    font-size: 3vw;
+    font-size: 2vw;
     margin: 0 auto;
     
 }
@@ -138,8 +145,11 @@
     nav ul {
         text-align: center;
     }
+
+    
+    
     .about_me {
-        font-size: 4vw;
+        font-size: 3vw;
         margin-bottom: 10px;
     }
     .content_title_desc {
@@ -147,7 +157,7 @@
         font-size: 3vw;
     }
 
-    .content_avatar  {
+    .content_avatar img  {
         width: 50%;
         display: block;
         margin: 0 auto;
@@ -156,12 +166,13 @@
     .content_title {
         display: block;
         margin: 0 auto;
+        line-height: 20px;
       
     }
 
     .about_blog_text{
         font-size: 4vw;
-        line-height: 40px;
+        line-height: 30px;
     }
     .inform {
         text-align: center;
@@ -171,7 +182,9 @@
         width: 50%;
         display: block;
     }
-
+    #cartoon_inform {
+        padding-left: 30px;
+    }
     .text_about p {
         font-size: 3vw;
         margin: 0 auto;
@@ -196,6 +209,7 @@
 
     .inform2 {
         padding-left: 400px;
+        font-size: 3vw;
        
     
     }
@@ -223,9 +237,17 @@
     .image_in img {
         width: 5vw;
     }
+
+    #about_blog {
+        padding-top: 30px;
+    }
 }
 
 @media (max-width: 540px) {
+    .header_nav a{
+        font-size: 2vw;
+
+    }
 
     nav ul {
         text-align: center;
@@ -233,7 +255,7 @@
 
     #blog {
         padding-left: 10px;
-        padding-bottom: 50px;
+        padding-bottom: 20px;
             
     }
 
@@ -256,6 +278,7 @@
     .content_title {
         width: auto;
         display: block;
+        line-height: 20px;
         
         margin: 0 auto;
       
@@ -266,6 +289,7 @@
     }
     .inform {
         text-align: center;
+        font-size: 3vw;
     }
 
     .cartoon_inform_tech img {
@@ -273,9 +297,10 @@
         display: block;
     }
 
-    .text_about p {
+    .text_about  {
         font-size: 3vw;
         margin: 0 auto;
+        margin-left: 10px;
     }
 
     .cartoon_inform1 {
@@ -286,9 +311,10 @@
         width: 50%;
             display: block;
     }
-    .text_about2 p {
+    .text_about2  {
         font-size: 3vw;
         margin: 0 auto;
+        margin-left: 0px;
         
     }
     br {
@@ -329,6 +355,11 @@
     .image_in img {
         width: 5vw;
     }
+
+    #about_blog {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
 }
 
 @media (max-width: 375px) {
@@ -366,6 +397,7 @@
             
     }
     .content_title  {
+        line-height: 10px;
         
        width: auto;
         display: block;
@@ -379,15 +411,18 @@
 
     .inform {
         text-align: center;
+        font-size: 2vw;
     }
     
     .cartoon_inform_tech img {
         width: 50%;
         display: block;
-    }.text_about p {
+    }.text_about  {
         font-size: 3vw;
+        margin-left: 10px;
         
     }
+   
 
     .cartoon_inform1 {
         padding-top: 30px;
@@ -397,9 +432,10 @@
         width: 50%;
             display: block;
     }
-    .text_about2 p {
+    .text_about2  {
         font-size: 3vw;
         margin: 0 auto;
+        margin-left: 0px;
         
     }
 
@@ -425,6 +461,10 @@
     }
     .image_in img {
         width: 5vw;
+    }
+
+    #about_blog {
+        padding-bottom: 30px;
     }
 
 }

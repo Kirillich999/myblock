@@ -233,16 +233,18 @@
     }
     .about_knopka {
         margin-top: 30px;
-        text-align: 50vw;}
+        margin-left: 50px;
+     }
 
     .ssylka {
       
-        width: 100px;
-        font-size: 5px;
+      
+        width: 250px;
+        font-size: 2VW;
     }
 
     .knopka {
-        font-size: 1vw;
+        font-size: 2vw;
     }
     .text_social h1{
         font-size: 4vw;
@@ -362,9 +364,9 @@
     }
 
     .ssylka {
-        margin-left: 0px;
-        width: 70px;
-        font-size: 1vw;
+        margin-left: 30px;
+        width: 150px;
+        font-size: 2vw;
         padding-top: 3px;
         padding-bottom: 3px;
         
@@ -373,7 +375,7 @@
         margin-top: 30px;
     }
     .knopka {
-        font-size: 1vw;
+        font-size: 2vw;
       line-height: 30px;
     }
     .text_social h1 {
@@ -385,6 +387,9 @@
         padding-bottom: 40px;
         padding-right: 20px;
     }
+    .image_in {margin-top: 5px;
+        
+    }
     .image_in img {
         width: 3vw;
         margin-left: 10px;
@@ -394,6 +399,7 @@
         padding-top: 30px;
         padding-bottom: 30px;
     }
+    .header { padding-top: 10px;}
 }
 
 @media (max-width: 375px) {
@@ -425,6 +431,12 @@
     nav ul {
         text-align: center;
     }
+.header { padding-top: 10px;}
+
+.header_nav li {
+    margin-right: 20px;
+}
+
 
     #blog {
         padding-left: 10px;
@@ -486,13 +498,13 @@
     }
     .ssylka {
         margin-left: 0px;
-        width: 50px;
-        font-size: 1vw;
+        width: 100px;
+        font-size: 2vw;
         
     }
     .knopka {
-        font-size: 1vw;
-        margin: 0px auto;
+        font-size: 2vw;
+       
        
      }
 
@@ -502,7 +514,10 @@
     }
     .image_in img {
         width: 3vw;
-        margin-top: 10px;
+        margin-top: 5px;
+    }
+    .image_in {margin-top: 5px;
+        
     }
     .vector1 {
         margin-left: 2px;
